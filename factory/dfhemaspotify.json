@@ -1,0 +1,9 @@
+{
+	"name": "dfhemaspotify",
+	"location": "canadaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "933d3fc6-3488-4ff1-a24d-78fd374d0cc0",
+		"tenantId": "182609c4-4cb6-428a-be08-ff7d401c6139"
+	}
+}
