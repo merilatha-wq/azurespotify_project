@@ -136,6 +136,8 @@
 			{
 				"name": "IfIncreamentaldata",
 				"type": "IfCondition",
+				"state": "Inactive",
+				"onInactiveMarkAs": "Succeeded",
 				"dependsOn": [
 					{
 						"activity": "SQLToLake",
